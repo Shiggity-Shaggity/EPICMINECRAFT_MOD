@@ -1,1 +1,12 @@
-haha you thought this would be important
+code.java equals I hate java with a burning passion and I have no idea why notch thought it was a good idea to make minecraft using Java
+but, on the other hand, Microsoft has destroyed the god tier game of Minecraft, so, if ur a real gamer, you play Java Edition. if you play
+String minecraftversion = "bedrock edition";
+System.out.println(H);
+
+bedrock edition, you are a fake gamer.
+
+if(minecraftversion == "bedrock edition"){
+  System.out.println("you aren't even a gamer");
+}else{
+  System.out.println("realgamerhours");
+}
