@@ -7,6 +7,6 @@ bedrock edition, you are a fake gamer.
 
 if(minecraftversion == "bedrock edition"){
   System.out.println("you aren't even a gamer");
-}else{
+}else if(minecraftversion == "java edition"){
   System.out.println("realgamerhours");
 }
